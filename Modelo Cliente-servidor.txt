@@ -1,0 +1,10 @@
+Modelo que usamos para acceder a internet y obtener recursos e informacion
+
+Cliente:
+El navegador desde el cual se realizan solicitudes a un servidor,
+el cliente conoce el formato esperado del mensaje que recibe del servidor.
+
+servidor:
+programa que se ejecuta en un servidor fisico para ofrecer un servicio al cliente,
+envia informacion al navegador
+el servidor conoce el formato esperado del mensaje que envia el cliente.

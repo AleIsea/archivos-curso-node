@@ -1,0 +1,8 @@
+Es el archivo de software mas grande del mundo, que contiene paquetes que puedes instalar 
+y usar con node.js.
+
+paquete: archivo o directorio o carpeta , que esta descrito por un archivo package.json
+
+node_modules : es una carpeta que se creara automaticamente cuando trabajemos con NPM
+
+dependencia: un paquete del cual depende de otro modulo para funcionar correctamente

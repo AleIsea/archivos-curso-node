@@ -1,0 +1,11 @@
+catch:
+Metodo de promesa que solo se  ejecuta si la promesa es rechazada
+
+.then(null, (mensajeDeError)=>{
+   console.log(mesajeDeError)
+});
+
+.catch((mensajeDeError) =>{
+   console.log(mesajeDeError)
+});
+

@@ -1,0 +1,3 @@
+EVENTO: Una accion que se realiza en la aplicacion pedir info a la base de datos,
+agregar info a traves de formulario
+
